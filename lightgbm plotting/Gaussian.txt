@@ -1,0 +1,1449 @@
+Simulation 1							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      2072							
+           1       0.99      0.99      0.99      2316							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9874240087626531							
+MCC: 0.974856380508683							
+Confusion Matrix:							
+[[2040   32]							
+ [  23 2293]]							
+Specificity: 0.9845559845559846							
+ROC AUC: 0.9873125345923274							
+Average Precision: 0.9816838952473447							
+Balanced Accuracy: 0.9873125345923274							
+Precision: 0.9862365591397849							
+Recall: 0.9900690846286702							
+False Positive Rate: 0.015444015444015444							
+Accuracy: 0.9874658158614403							
+Cohens Kappa: 0.9748481236871187							
+Hamming Loss: 0.01253418413855971							
+Log Loss: 0.4517777886056163							
+Area Under PR Curve: 0.9816838952473447							
+							
+Simulation 2							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2053							
+           1       0.99      0.99      0.99      2335							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9890150604822558							
+MCC: 0.978030535331971							
+Confusion Matrix:							
+[[2028   25]							
+ [  23 2312]]							
+Specificity: 0.9878226984900146							
+ROC AUC: 0.9889862957118166							
+Average Precision: 0.9847993567282896							
+Balanced Accuracy: 0.9889862957118167							
+Precision: 0.9893025246041934							
+Recall: 0.9901498929336189							
+False Positive Rate: 0.012177301509985387							
+Accuracy: 0.9890610756608933							
+Cohens Kappa: 0.9780301255478022							
+Hamming Loss: 0.010938924339106655							
+Log Loss: 0.3942787973285379							
+Area Under PR Curve: 0.9847993567282896							
+							
+Simulation 3							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2022							
+           1       0.99      0.99      0.99      2366							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9887604427302027							
+MCC: 0.9775293126404249							
+Confusion Matrix:							
+[[1993   29]							
+ [  20 2346]]							
+Specificity: 0.9856577645895154							
+ROC AUC: 0.9886023396066765							
+Average Precision: 0.9839974900707779							
+Balanced Accuracy: 0.9886023396066765							
+Precision: 0.9877894736842106							
+Recall: 0.9915469146238377							
+False Positive Rate: 0.014342235410484669							
+Accuracy: 0.9888331814038286							
+Cohens Kappa: 0.9775209806411035							
+Hamming Loss: 0.011166818596171376							
+Log Loss: 0.4024929389395491							
+Area Under PR Curve: 0.9839974900707779							
+							
+Simulation 4							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2025							
+           1       0.99      0.99      0.99      2363							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9887645305050793							
+MCC: 0.9775316601137909							
+Confusion Matrix:							
+[[1998   27]							
+ [  22 2341]]							
+Specificity: 0.9866666666666667							
+ROC AUC: 0.9886782338834815							
+Average Precision: 0.9844076028681745							
+Balanced Accuracy: 0.9886782338834814							
+Precision: 0.988597972972973							
+Recall: 0.9906898011002963							
+False Positive Rate: 0.013333333333333334							
+Accuracy: 0.9888331814038286							
+Cohens Kappa: 0.9775290903656387							
+Hamming Loss: 0.011166818596171376							
+Log Loss: 0.40249293893954907							
+Area Under PR Curve: 0.9844076028681745							
+							
+Simulation 5							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      2050							
+           1       0.99      0.99      0.99      2338							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9887789689324734							
+MCC: 0.9775879076247128							
+Confusion Matrix:							
+[[2017   33]							
+ [  16 2322]]							
+Specificity: 0.9839024390243902							
+ROC AUC: 0.9885294915395688							
+Average Precision: 0.9828860088752963							
+Balanced Accuracy: 0.9885294915395689							
+Precision: 0.9859872611464968							
+Recall: 0.9931565440547476							
+False Positive Rate: 0.016097560975609757							
+Accuracy: 0.9888331814038286							
+Cohens Kappa: 0.9775582763380157							
+Hamming Loss: 0.011166818596171376							
+Log Loss: 0.4024929389395491							
+Area Under PR Curve: 0.9828860088752963							
+							
+Simulation 6							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.99      0.98      2020							
+           1       0.99      0.99      0.99      2368							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9857852136460611							
+MCC: 0.9715770594284117							
+Confusion Matrix:							
+[[1993   27]							
+ [  35 2333]]							
+Specificity: 0.9866336633663366							
+ROC AUC: 0.9859266289804657							
+Average Precision: 0.9819243134842098							
+Balanced Accuracy: 0.9859266289804656							
+Precision: 0.9885593220338983							
+Recall: 0.9852195945945946							
+False Positive Rate: 0.013366336633663366							
+Accuracy: 0.9858705560619873							
+Cohens Kappa: 0.9715705223593616							
+Hamming Loss: 0.014129443938012761							
+Log Loss: 0.5092767798826948							
+Area Under PR Curve: 0.9819243134842098							
+							
+Simulation 7							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2072							
+           1       0.99      0.99      0.99      2316							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9883410467331846							
+MCC: 0.9766821967662096							
+Confusion Matrix:							
+[[2046   26]							
+ [  25 2291]]							
+Specificity: 0.9874517374517374							
+ROC AUC: 0.9883286321110155							
+Average Precision: 0.9838026053824845							
+Balanced Accuracy: 0.9883286321110155							
+Precision: 0.9887785930082003							
+Recall: 0.9892055267702936							
+False Positive Rate: 0.012548262548262547							
+Accuracy: 0.9883773928896992							
+Cohens Kappa: 0.9766820946811903							
+Hamming Loss: 0.01162260711030082							
+Log Loss: 0.41892122216157146							
+Area Under PR Curve: 0.9838026053824845							
+							
+Simulation 8							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2032							
+           1       0.99      0.99      0.99      2356							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9864809872891767							
+MCC: 0.9729620781575211							
+Confusion Matrix:							
+[[2003   29]							
+ [  30 2326]]							
+Specificity: 0.9857283464566929							
+ROC AUC: 0.9864974499685842							
+Average Precision: 0.9819459586654813							
+Balanced Accuracy: 0.9864974499685841							
+Precision: 0.9876857749469214							
+Recall: 0.9872665534804754							
+False Positive Rate: 0.014271653543307087							
+Accuracy: 0.9865542388331814							
+Cohens Kappa: 0.9729619759902447							
+Hamming Loss: 0.013445761166818596							
+Log Loss: 0.48463435504966107							
+Area Under PR Curve: 0.9819459586654813							
+							
+Simulation 9							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.99      0.99      2051							
+           1       0.99      0.99      0.99      2337							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9874149378023949							
+MCC: 0.9748349418927071							
+Confusion Matrix:							
+[[2027   24]							
+ [  31 2306]]							
+Specificity: 0.9882983910287665							
+ROC AUC: 0.9875167607689831							
+Average Precision: 0.9836360571424891							
+Balanced Accuracy: 0.9875167607689832							
+Precision: 0.9896995708154507							
+Recall: 0.9867351305091998							
+False Positive Rate: 0.011701608971233545							
+Accuracy: 0.9874658158614403							
+Cohens Kappa: 0.9748299399189185							
+Hamming Loss: 0.01253418413855971							
+Log Loss: 0.4517777886056163							
+Area Under PR Curve: 0.9836360571424891							
+							
+Simulation 10							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.99      0.99      2077							
+           1       0.99      0.99      0.99      2311							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.986289328089588							
+MCC: 0.9725823641501652							
+Confusion Matrix:							
+[[2050   27]							
+ [  33 2278]]							
+Specificity: 0.9870004814636495							
+ROC AUC: 0.9863604743969048							
+Average Precision: 0.9816945775452203							
+Balanced Accuracy: 0.9863604743969048							
+Precision: 0.9882863340563991							
+Recall: 0.98572046733016							
+False Positive Rate: 0.012999518536350506							
+Accuracy: 0.9863263445761167							
+Cohens Kappa: 0.972578707587245							
+Hamming Loss: 0.013673655423883319							
+Log Loss: 0.4928484966606722							
+Area Under PR Curve: 0.9816945775452203							
+							
+Simulation 11							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      2035							
+           1       0.99      0.99      0.99      2353							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.986706950155346							
+MCC: 0.9734288263363431							
+Confusion Matrix:							
+[[2000   35]							
+ [  23 2330]]							
+Specificity: 0.9828009828009828							
+ROC AUC: 0.9865131135849369							
+Average Precision: 0.9808123160645037							
+Balanced Accuracy: 0.9865131135849368							
+Precision: 0.985200845665962							
+Recall: 0.9902252443688908							
+False Positive Rate: 0.0171990171990172							
+Accuracy: 0.9867821330902461							
+Cohens Kappa: 0.9734141002710361							
+Hamming Loss: 0.013217866909753875							
+Log Loss: 0.4764202134386499							
+Area Under PR Curve: 0.9808123160645037							
+							
+Simulation 12							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2017							
+           1       0.99      0.99      0.99      2371							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9894489677292553							
+MCC: 0.9788983518749976							
+Confusion Matrix:							
+[[1995   22]							
+ [  24 2347]]							
+Specificity: 0.9890927119484383							
+ROC AUC: 0.9894852003436835							
+Average Precision: 0.9861545341282978							
+Balanced Accuracy: 0.9894852003436835							
+Precision: 0.990713381173491							
+Recall: 0.9898776887389287							
+False Positive Rate: 0.010907288051561725							
+Accuracy: 0.9895168641750228							
+Cohens Kappa: 0.9788979398707122							
+Hamming Loss: 0.010483135824977211							
+Log Loss: 0.3778505141065155							
+Area Under PR Curve: 0.9861545341282978							
+							
+Simulation 13							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2008							
+           1       0.99      0.99      0.99      2380							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9887545172282949							
+MCC: 0.9775116381423055							
+Confusion Matrix:							
+[[1986   22]							
+ [  27 2353]]							
+Specificity: 0.9890438247011952							
+ROC AUC: 0.9888496434430346							
+Average Precision: 0.985650535475909							
+Balanced Accuracy: 0.9888496434430346							
+Precision: 0.9907368421052631							
+Recall: 0.988655462184874							
+False Positive Rate: 0.010956175298804782							
+Accuracy: 0.9888331814038286							
+Cohens Kappa: 0.9775090638644176							
+Hamming Loss: 0.011166818596171376							
+Log Loss: 0.40249293893954907							
+Area Under PR Curve: 0.985650535475909							
+							
+Simulation 14							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2048							
+           1       0.99      0.99      0.99      2340							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9869534348792968							
+MCC: 0.9739078004102023							
+Confusion Matrix:							
+[[2021   27]							
+ [  30 2310]]							
+Specificity: 0.98681640625							
+ROC AUC: 0.9869979467147436							
+Average Precision: 0.9826111603540535							
+Balanced Accuracy: 0.9869979467147436							
+Precision: 0.9884467265725289							
+Recall: 0.9871794871794872							
+False Positive Rate: 0.01318359375							
+Accuracy: 0.9870100273473108							
+Cohens Kappa: 0.97390688200823							
+Hamming Loss: 0.012989972652689152							
+Log Loss: 0.4682060718276387							
+Area Under PR Curve: 0.9826111603540535							
+							
+Simulation 15							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.99      0.99      1989							
+           1       0.99      0.99      0.99      2399							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9871320591491264							
+MCC: 0.9742791278105566							
+Confusion Matrix:							
+[[1967   22]							
+ [  34 2365]]							
+Specificity: 0.9889391654097537							
+ROC AUC: 0.9873832967523967							
+Average Precision: 0.9844898657560233							
+Balanced Accuracy: 0.9873832967523967							
+Precision: 0.9907834101382489							
+Recall: 0.9858274280950396							
+False Positive Rate: 0.011060834590246356							
+Accuracy: 0.9872379216043756							
+Cohens Kappa: 0.9742643123656938							
+Hamming Loss: 0.01276207839562443							
+Log Loss: 0.45999193021662743							
+Area Under PR Curve: 0.9844898657560233							
+							
+Simulation 16							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      2114							
+           1       0.99      0.99      0.99      2274							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9856233075036106							
+MCC: 0.9712467176596724							
+Confusion Matrix:							
+[[2082   32]							
+ [  31 2243]]							
+Specificity: 0.9848628192999054							
+ROC AUC: 0.9856152267123977							
+Average Precision: 0.9795581739875244							
+Balanced Accuracy: 0.9856152267123977							
+Precision: 0.985934065934066							
+Recall: 0.98636763412489							
+False Positive Rate: 0.015137180700094607							
+Accuracy: 0.9856426618049225							
+Cohens Kappa: 0.971246616502564							
+Hamming Loss: 0.014357338195077484							
+Log Loss: 0.5174909214937059							
+Area Under PR Curve: 0.9795581739875244							
+							
+Simulation 17							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2007							
+           1       0.99      0.99      0.99      2381							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9896676781834957							
+MCC: 0.9793379649037861							
+Confusion Matrix:							
+[[1982   25]							
+ [  20 2361]]							
+Specificity: 0.9875435974090683							
+ROC AUC: 0.9895718827028542							
+Average Precision: 0.9857682776979027							
+Balanced Accuracy: 0.9895718827028541							
+Precision: 0.9895222129086337							
+Recall: 0.9916001679966401							
+False Positive Rate: 0.01245640259093174							
+Accuracy: 0.9897447584320875							
+Cohens Kappa: 0.9793353833994874							
+Hamming Loss: 0.010255241567912488							
+Log Loss: 0.36963637249550435							
+Area Under PR Curve: 0.9857682776979027							
+							
+Simulation 18							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2060							
+           1       0.99      0.99      0.99      2328							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9892497617455173							
+MCC: 0.978500455031908							
+Confusion Matrix:							
+[[2038   22]							
+ [  25 2303]]							
+Specificity: 0.9893203883495145							
+ROC AUC: 0.9892907783671971							
+Average Precision: 0.9855977739708667							
+Balanced Accuracy: 0.9892907783671971							
+Precision: 0.9905376344086021							
+Recall: 0.9892611683848798							
+False Positive Rate: 0.010679611650485437							
+Accuracy: 0.9892889699179581							
+Cohens Kappa: 0.9784995335776161							
+Hamming Loss: 0.010711030082041932							
+Log Loss: 0.3860646557175267							
+Area Under PR Curve: 0.9855977739708667							
+							
+Simulation 19							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2053							
+           1       0.99      0.99      0.99      2335							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9899298733806964							
+MCC: 0.9798614059681855							
+Confusion Matrix:							
+[[2029   24]							
+ [  20 2315]]							
+Specificity: 0.988309790550414							
+ROC AUC: 0.9898722400289542							
+Average Precision: 0.9858196663340478							
+Balanced Accuracy: 0.9898722400289544							
+Precision: 0.9897392047883711							
+Recall: 0.9914346895074947							
+False Positive Rate: 0.011690209449585971							
+Accuracy: 0.9899726526891522							
+Cohens Kappa: 0.9798597635687791							
+Hamming Loss: 0.010027347310847767							
+Log Loss: 0.36142223088449305							
+Area Under PR Curve: 0.9858196663340478							
+							
+Simulation 20							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      1989							
+           1       0.99      0.99      0.99      2399							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9878157491726288							
+MCC: 0.9756316027464229							
+Confusion Matrix:							
+[[1963   26]							
+ [  27 2372]]							
+Specificity: 0.9869281045751634							
+ROC AUC: 0.9878367075606123							
+Average Precision: 0.9841781143382689							
+Balanced Accuracy: 0.9878367075606121							
+Precision: 0.9891576313594662							
+Recall: 0.9887453105460609							
+False Positive Rate: 0.013071895424836602							
+Accuracy: 0.9879216043755698							
+Cohens Kappa: 0.9756314996219468							
+Hamming Loss: 0.012078395624430265							
+Log Loss: 0.4353495053835939							
+Area Under PR Curve: 0.9841781143382689							
+							
+Simulation 21							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.98      2013							
+           1       0.98      0.99      0.99      2375							
+							
+    accuracy                           0.98      4388							
+   macro avg       0.98      0.98      0.98      4388							
+weighted avg       0.98      0.98      0.98      4388							
+							
+F1 Score: 0.984162078972729							
+MCC: 0.9683325570255431							
+Confusion Matrix:							
+[[1974   39]							
+ [  30 2345]]							
+Specificity: 0.9806259314456036							
+ROC AUC: 0.9839971762491175							
+Average Precision: 0.97805282912487							
+Balanced Accuracy: 0.9839971762491175							
+Precision: 0.9836409395973155							
+Recall: 0.9873684210526316							
+False Positive Rate: 0.019374068554396422							
+Accuracy: 0.9842752962625342							
+Cohens Kappa: 0.9683242921582191							
+Hamming Loss: 0.015724703737465817							
+Log Loss: 0.5667757711597732							
+Area Under PR Curve: 0.97805282912487							
+							
+Simulation 22							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.99      0.98      1973							
+           1       0.99      0.99      0.99      2415							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9861874626985946							
+MCC: 0.9723753434516099							
+Confusion Matrix:							
+[[1944   29]							
+ [  31 2384]]							
+Specificity: 0.9853015712113533							
+ROC AUC: 0.9862325661439789							
+Average Precision: 0.9823643198167582							
+Balanced Accuracy: 0.9862325661439789							
+Precision: 0.987981765437215							
+Recall: 0.9871635610766045							
+False Positive Rate: 0.01469842878864673							
+Accuracy: 0.9863263445761167							
+Cohens Kappa: 0.9723749311943981							
+Hamming Loss: 0.013673655423883319							
+Log Loss: 0.4928484966606723							
+Area Under PR Curve: 0.9823643198167582							
+							
+Simulation 23							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2105							
+           1       0.99      0.99      0.99      2283							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9888132970113556							
+MCC: 0.9776316446440381							
+Confusion Matrix:							
+[[2077   28]							
+ [  21 2262]]							
+Specificity: 0.9866983372921615							
+ROC AUC: 0.9887499570823489							
+Average Precision: 0.9834727518375194							
+Balanced Accuracy: 0.9887499570823488							
+Precision: 0.9877729257641922							
+Recall: 0.9908015768725361							
+False Positive Rate: 0.01330166270783848							
+Accuracy: 0.9888331814038286							
+Cohens Kappa: 0.9776266510609994							
+Hamming Loss: 0.011166818596171376							
+Log Loss: 0.40249293893954907							
+Area Under PR Curve: 0.9834727518375194							
+							
+Simulation 24							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2056							
+           1       0.99      0.99      0.99      2332							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.988787198803812							
+MCC: 0.977576986352785							
+Confusion Matrix:							
+[[2029   27]							
+ [  22 2310]]							
+Specificity: 0.9868677042801557							
+ROC AUC: 0.9887168710080023							
+Average Precision: 0.984135431109344							
+Balanced Accuracy: 0.9887168710080023							
+Precision: 0.9884467265725289							
+Recall: 0.9905660377358491							
+False Positive Rate: 0.013132295719844358							
+Accuracy: 0.9888331814038286							
+Cohens Kappa: 0.9775744268447707							
+Hamming Loss: 0.011166818596171376							
+Log Loss: 0.40249293893954907							
+Area Under PR Curve: 0.984135431109344							
+							
+Simulation 25							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2028							
+           1       0.99      0.99      0.99      2360							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.989683182369893							
+MCC: 0.9793714623057667							
+Confusion Matrix:							
+[[2002   26]							
+ [  19 2341]]							
+Specificity: 0.9871794871794872							
+ROC AUC: 0.9895643198609301							
+Average Precision: 0.9853832085021828							
+Balanced Accuracy: 0.9895643198609301							
+Precision: 0.9890156316011829							
+Recall: 0.9919491525423729							
+False Positive Rate: 0.01282051282051282							
+Accuracy: 0.9897447584320875							
+Cohens Kappa: 0.9793664175645225							
+Hamming Loss: 0.010255241567912488							
+Log Loss: 0.3696363724955043							
+Area Under PR Curve: 0.9853832085021828							
+							
+Simulation 26							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.98      0.98      2032							
+           1       0.99      0.98      0.98      2356							
+							
+    accuracy                           0.98      4388							
+   macro avg       0.98      0.98      0.98      4388							
+weighted avg       0.98      0.98      0.98      4388							
+							
+F1 Score: 0.9837313575852804							
+MCC: 0.9674628184594353							
+Confusion Matrix:							
+[[1997   35]							
+ [  36 2320]]							
+Specificity: 0.9827755905511811							
+ROC AUC: 0.9837477273638758							
+Average Precision: 0.978289154990909							
+Balanced Accuracy: 0.9837477273638757							
+Precision: 0.9851380042462845							
+Recall: 0.9847198641765704							
+False Positive Rate: 0.0172244094488189							
+Accuracy: 0.9838195077484048							
+Cohens Kappa: 0.9674627168696165							
+Hamming Loss: 0.01618049225159526							
+Log Loss: 0.5832040543817956							
+Area Under PR Curve: 0.978289154990909							
+							
+Simulation 27							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2039							
+           1       0.99      0.99      0.99      2349							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9876303694288583							
+MCC: 0.9752623970804605							
+Confusion Matrix:							
+[[2010   29]							
+ [  25 2324]]							
+Specificity: 0.9857773418342325							
+ROC AUC: 0.9875672575497257							
+Average Precision: 0.9828610073694015							
+Balanced Accuracy: 0.9875672575497259							
+Precision: 0.9876753081172971							
+Recall: 0.9893571732652192							
+False Positive Rate: 0.014222658165767533							
+Accuracy: 0.987693710118505							
+Cohens Kappa: 0.9752607595211601							
+Hamming Loss: 0.012306289881494986							
+Log Loss: 0.4435636469946051							
+Area Under PR Curve: 0.9828610073694015							
+							
+Simulation 28							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2034							
+           1       0.99      0.99      0.99      2354							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9885412619026729							
+MCC: 0.9770891690610362							
+Confusion Matrix:							
+[[2005   29]							
+ [  21 2333]]							
+Specificity: 0.9857423795476893							
+ROC AUC: 0.9884106969955949							
+Average Precision: 0.9836965925637641							
+Balanced Accuracy: 0.9884106969955948							
+Precision: 0.9877222692633362							
+Recall: 0.9910790144435004							
+False Positive Rate: 0.014257620452310717							
+Accuracy: 0.9886052871467639							
+Cohens Kappa: 0.9770826004082932							
+Hamming Loss: 0.011394712853236098							
+Log Loss: 0.41070708055056027							
+Area Under PR Curve: 0.9836965925637641							
+							
+Simulation 29							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.98      0.98      2012							
+           1       0.98      0.99      0.99      2376							
+							
+    accuracy                           0.98      4388							
+   macro avg       0.98      0.98      0.98      4388							
+weighted avg       0.98      0.98      0.98      4388							
+							
+F1 Score: 0.9841633050242796							
+MCC: 0.9683292019545909							
+Confusion Matrix:							
+[[1975   37]							
+ [  32 2344]]							
+Specificity: 0.981610337972167							
+ROC AUC: 0.9840711622520768							
+Average Precision: 0.9784942022953599							
+Balanced Accuracy: 0.9840711622520768							
+Precision: 0.9844603107937842							
+Recall: 0.9865319865319865							
+False Positive Rate: 0.018389662027833							
+Accuracy: 0.9842752962625342							
+Cohens Kappa: 0.9683266514659589							
+Hamming Loss: 0.015724703737465817							
+Log Loss: 0.5667757711597732							
+Area Under PR Curve: 0.9784942022953599							
+							
+Simulation 30							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2021							
+           1       0.99      0.99      0.99      2367							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9871590024523145							
+MCC: 0.9743184201109347							
+Confusion Matrix:							
+[[1994   27]							
+ [  29 2338]]							
+Specificity: 0.9866402770905492							
+ROC AUC: 0.9871942407843959							
+Average Precision: 0.9830805199538752							
+Balanced Accuracy: 0.9871942407843959							
+Precision: 0.9885835095137421							
+Recall: 0.9877482044782425							
+False Positive Rate: 0.013359722909450767							
+Accuracy: 0.9872379216043756							
+Cohens Kappa: 0.9743180102728795							
+Hamming Loss: 0.01276207839562443							
+Log Loss: 0.45999193021662754							
+Area Under PR Curve: 0.9830805199538752							
+							
+Simulation 31							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      1992							
+           1       0.99      0.99      0.99      2396							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9901146644230763							
+MCC: 0.980231945006333							
+Confusion Matrix:							
+[[1968   24]							
+ [  19 2377]]							
+Specificity: 0.9879518072289156							
+ROC AUC: 0.9900109620451756							
+Average Precision: 0.9864835384809114							
+Balanced Accuracy: 0.9900109620451757							
+Precision: 0.9900041649312786							
+Recall: 0.9920701168614358							
+False Positive Rate: 0.012048192771084338							
+Accuracy: 0.990200546946217							
+Cohens Kappa: 0.9802293547412289							
+Hamming Loss: 0.009799453053783045							
+Log Loss: 0.35320808927348185							
+Area Under PR Curve: 0.9864835384809114							
+							
+Simulation 32							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2059							
+           1       0.99      0.99      0.99      2329							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9871886952205775							
+MCC: 0.9743778037543473							
+Confusion Matrix:							
+[[2030   29]							
+ [  27 2302]]							
+Specificity: 0.9859154929577465							
+ROC AUC: 0.9871612673032615							
+Average Precision: 0.982263402287587							
+Balanced Accuracy: 0.9871612673032615							
+Precision: 0.9875589875589875							
+Recall: 0.9884070416487764							
+False Positive Rate: 0.014084507042253521							
+Accuracy: 0.9872379216043756							
+Cohens Kappa: 0.9743773957846078							
+Hamming Loss: 0.01276207839562443							
+Log Loss: 0.4599919302166275							
+Area Under PR Curve: 0.982263402287587							
+							
+Simulation 33							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2060							
+           1       0.99      0.99      0.99      2328							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9883308917100306							
+MCC: 0.9766701651525311							
+Confusion Matrix:							
+[[2030   30]							
+ [  21 2307]]							
+Specificity: 0.9854368932038835							
+ROC AUC: 0.9882081373235913							
+Average Precision: 0.9830439877807685							
+Balanced Accuracy: 0.9882081373235913							
+Precision: 0.9871630295250321							
+Recall: 0.990979381443299							
+False Positive Rate: 0.014563106796116505							
+Accuracy: 0.9883773928896992							
+Cohens Kappa: 0.9766618819916428							
+Hamming Loss: 0.01162260711030082							
+Log Loss: 0.41892122216157146							
+Area Under PR Curve: 0.9830439877807685							
+							
+Simulation 34							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      2048							
+           1       0.99      0.99      0.99      2340							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9876351408470548							
+MCC: 0.9752806377384324							
+Confusion Matrix:							
+[[2016   32]							
+ [  22 2318]]							
+Specificity: 0.984375							
+ROC AUC: 0.9874866452991453							
+Average Precision: 0.9821229662540782							
+Balanced Accuracy: 0.9874866452991453							
+Precision: 0.9863829787234043							
+Recall: 0.9905982905982906							
+False Positive Rate: 0.015625							
+Accuracy: 0.987693710118505							
+Cohens Kappa: 0.9752704107404516							
+Hamming Loss: 0.012306289881494986							
+Log Loss: 0.4435636469946051							
+Area Under PR Curve: 0.9821229662540782							
+							
+Simulation 35							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.98      2056							
+           1       0.99      0.99      0.99      2332							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.98581278905707							
+MCC: 0.9716272298097582							
+Confusion Matrix:							
+[[2023   33]							
+ [  29 2303]]							
+Specificity: 0.9839494163424124							
+ROC AUC: 0.9857568694061977							
+Average Precision: 0.9802222188351725							
+Balanced Accuracy: 0.9857568694061976							
+Precision: 0.9858732876712328							
+Recall: 0.9875643224699828							
+False Positive Rate: 0.016050583657587547							
+Accuracy: 0.9858705560619873							
+Cohens Kappa: 0.9716256017888879							
+Hamming Loss: 0.014129443938012761							
+Log Loss: 0.5092767798826947							
+Area Under PR Curve: 0.9802222188351725							
+							
+Simulation 36							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      2067							
+           1       0.99      0.99      0.99      2321							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9881051279484869							
+MCC: 0.9762305227849681							
+Confusion Matrix:							
+[[2034   33]							
+ [  19 2302]]							
+Specificity: 0.9840348330914369							
+ROC AUC: 0.9879243532109488							
+Average Precision: 0.9821267944845385							
+Balanced Accuracy: 0.987924353210949							
+Precision: 0.9858672376873662							
+Recall: 0.991813873330461							
+False Positive Rate: 0.015965166908563134							
+Accuracy: 0.9881494986326345							
+Cohens Kappa: 0.9762104989668933							
+Hamming Loss: 0.011850501367365542							
+Log Loss: 0.4271353637725827							
+Area Under PR Curve: 0.9821267944845385							
+							
+Simulation 37							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.98      2067							
+           1       0.98      0.99      0.99      2321							
+							
+    accuracy                           0.98      4388							
+   macro avg       0.98      0.98      0.98      4388							
+weighted avg       0.98      0.98      0.98      4388							
+							
+F1 Score: 0.9844477454797533							
+MCC: 0.9689020819172421							
+Confusion Matrix:							
+[[2029   38]							
+ [  30 2291]]							
+Specificity: 0.9816158684083213							
+ROC AUC: 0.9843452026229457							
+Average Precision: 0.9778062411489846							
+Balanced Accuracy: 0.9843452026229456							
+Precision: 0.9836839845427222							
+Recall: 0.98707453683757							
+False Positive Rate: 0.018384131591678763							
+Accuracy: 0.9845031905195989							
+Cohens Kappa: 0.9688955947170547							
+Hamming Loss: 0.015496809480401094							
+Log Loss: 0.5585616295487619							
+Area Under PR Curve: 0.9778062411489846							
+							
+Simulation 38							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2054							
+           1       0.99      0.99      0.99      2334							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9876448298416215							
+MCC: 0.975291314079685							
+Confusion Matrix:							
+[[2029   25]							
+ [  29 2305]]							
+Specificity: 0.9878286270691334							
+ROC AUC: 0.9877018028233413							
+Average Precision: 0.983587613979019							
+Balanced Accuracy: 0.9877018028233413							
+Precision: 0.9892703862660944							
+Recall: 0.9875749785775493							
+False Positive Rate: 0.012171372930866602							
+Accuracy: 0.987693710118505							
+Cohens Kappa: 0.9752896802984026							
+Hamming Loss: 0.012306289881494986							
+Log Loss: 0.4435636469946051							
+Area Under PR Curve: 0.983587613979019							
+							
+Simulation 39							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      1997							
+           1       0.99      0.99      0.99      2391							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9866679993219383							
+MCC: 0.9733510110850251							
+Confusion Matrix:							
+[[1962   35]							
+ [  23 2368]]							
+Specificity: 0.9824737105658488							
+ROC AUC: 0.9864271522298086							
+Average Precision: 0.9811971427524567							
+Balanced Accuracy: 0.9864271522298085							
+Precision: 0.9854348730753225							
+Recall: 0.9903805938937683							
+False Positive Rate: 0.017526289434151226							
+Accuracy: 0.9867821330902461							
+Cohens Kappa: 0.9733361997777668							
+Hamming Loss: 0.013217866909753875							
+Log Loss: 0.4764202134386499							
+Area Under PR Curve: 0.9811971427524567							
+							
+Simulation 40							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      1999							
+           1       0.99      0.99      0.99      2389							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9871373534338357							
+MCC: 0.974275123456901							
+Confusion Matrix:							
+[[1972   27]							
+ [  29 2360]]							
+Specificity: 0.9864932466233116							
+ROC AUC: 0.9871771381714297							
+Average Precision: 0.9832960009614261							
+Balanced Accuracy: 0.9871771381714298							
+Precision: 0.9886887306242145							
+Recall: 0.9878610297195479							
+False Positive Rate: 0.013506753376688344							
+Accuracy: 0.9872379216043756							
+Cohens Kappa: 0.9742747122540385							
+Hamming Loss: 0.01276207839562443							
+Log Loss: 0.45999193021662754							
+Area Under PR Curve: 0.9832960009614261							
+							
+Simulation 41							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.98      2088							
+           1       0.98      0.99      0.99      2300							
+							
+    accuracy                           0.98      4388							
+   macro avg       0.98      0.98      0.98      4388							
+weighted avg       0.98      0.98      0.98      4388							
+							
+F1 Score: 0.9842300656601415							
+MCC: 0.968514523441283							
+Confusion Matrix:							
+[[2042   46]							
+ [  23 2277]]							
+Specificity: 0.9779693486590039							
+ROC AUC: 0.9839846743295019							
+Average Precision: 0.975637607516449							
+Balanced Accuracy: 0.983984674329502							
+Precision: 0.9801980198019802							
+Recall: 0.99							
+False Positive Rate: 0.022030651340996167							
+Accuracy: 0.9842752962625342							
+Cohens Kappa: 0.9684610003162525							
+Hamming Loss: 0.015724703737465817							
+Log Loss: 0.5667757711597732							
+Area Under PR Curve: 0.975637607516449							
+							
+Simulation 42							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2057							
+           1       0.99      0.99      0.99      2331							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9881037884191077							
+MCC: 0.9762079905360275							
+Confusion Matrix:							
+[[2032   25]							
+ [  27 2304]]							
+Specificity: 0.9878463782207098							
+ROC AUC: 0.988131683318849							
+Average Precision: 0.9839602472648099							
+Balanced Accuracy: 0.9881316833188492							
+Precision: 0.9892657793044225							
+Recall: 0.9884169884169884							
+False Positive Rate: 0.012153621779290228							
+Accuracy: 0.9881494986326345							
+Cohens Kappa: 0.9762075817999929							
+Hamming Loss: 0.011850501367365542							
+Log Loss: 0.4271353637725827							
+Area Under PR Curve: 0.9839602472648099							
+							
+Simulation 43							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.98      2034							
+           1       0.98      0.99      0.99      2354							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9860169501929208							
+MCC: 0.9720572140389057							
+Confusion Matrix:							
+[[1996   38]							
+ [  23 2331]]							
+Specificity: 0.9813176007866273							
+ROC AUC: 0.9857734987790401							
+Average Precision: 0.9795871668463243							
+Balanced Accuracy: 0.9857734987790401							
+Precision: 0.9839594765723935							
+Recall: 0.9902293967714528							
+False Positive Rate: 0.018682399213372666							
+Accuracy: 0.986098450319052							
+Cohens Kappa: 0.9720342290972401							
+Hamming Loss: 0.01390154968094804							
+Log Loss: 0.5010626382716835							
+Area Under PR Curve: 0.9795871668463243							
+							
+Simulation 44							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2003							
+           1       0.99      0.99      0.99      2385							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9875977386254506							
+MCC: 0.9751971441237473							
+Confusion Matrix:							
+[[1974   29]							
+ [  25 2360]]							
+Specificity: 0.9855217174238642							
+ROC AUC: 0.9875197685651815							
+Average Precision: 0.9832034487277221							
+Balanced Accuracy: 0.9875197685651815							
+Precision: 0.9878610297195479							
+Recall: 0.989517819706499							
+False Positive Rate: 0.014478282576135796							
+Accuracy: 0.987693710118505							
+Cohens Kappa: 0.9751954980235077							
+Hamming Loss: 0.012306289881494986							
+Log Loss: 0.4435636469946051							
+Area Under PR Curve: 0.9832034487277221							
+							
+Simulation 45							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2080							
+           1       0.99      0.99      0.99      2308							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9901693981853785							
+MCC: 0.9803761613358887							
+Confusion Matrix:							
+[[2049   31]							
+ [  12 2296]]							
+Specificity: 0.9850961538461539							
+ROC AUC: 0.9899484235435276							
+Average Precision: 0.9842828151763577							
+Balanced Accuracy: 0.9899484235435276							
+Precision: 0.9866781263429308							
+Recall: 0.9948006932409013							
+False Positive Rate: 0.014903846153846155							
+Accuracy: 0.990200546946217							
+Cohens Kappa: 0.9803391661599083							
+Hamming Loss: 0.009799453053783045							
+Log Loss: 0.35320808927348185							
+Area Under PR Curve: 0.9842828151763577							
+							
+Simulation 46							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.98      2053							
+           1       0.98      0.99      0.99      2335							
+							
+    accuracy                           0.98      4388							
+   macro avg       0.99      0.98      0.98      4388							
+weighted avg       0.98      0.98      0.98      4388							
+							
+F1 Score: 0.984892077323718							
+MCC: 0.9697944754404725							
+Confusion Matrix:							
+[[2015   38]							
+ [  28 2307]]							
+Specificity: 0.9814905017048222							
+ROC AUC: 0.9847495335076573							
+Average Precision: 0.9783792311685184							
+Balanced Accuracy: 0.9847495335076574							
+Precision: 0.9837953091684435							
+Recall: 0.9880085653104925							
+False Positive Rate: 0.018509498295177788							
+Accuracy: 0.9849589790337283							
+Cohens Kappa: 0.9697843122730104							
+Hamming Loss: 0.01504102096627165							
+Log Loss: 0.5421333463267396							
+Area Under PR Curve: 0.9783792311685184							
+							
+Simulation 47							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.99      0.99      1986							
+           1       0.99      0.99      0.99      2402							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9880461523631503							
+MCC: 0.9760989874270161							
+Confusion Matrix:							
+[[1964   22]							
+ [  30 2372]]							
+Specificity: 0.9889224572004028							
+ROC AUC: 0.988216432596871							
+Average Precision: 0.9852723698005798							
+Balanced Accuracy: 0.9882164325968709							
+Precision: 0.9908103592314118							
+Recall: 0.9875104079933389							
+False Positive Rate: 0.011077542799597181							
+Accuracy: 0.9881494986326345							
+Cohens Kappa: 0.9760923848856128							
+Hamming Loss: 0.011850501367365542							
+Log Loss: 0.42713536377258265							
+Area Under PR Curve: 0.9852723698005798							
+							
+Simulation 48							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.98      0.98      0.98      1997							
+           1       0.99      0.98      0.99      2391							
+							
+    accuracy                           0.98      4388							
+   macro avg       0.98      0.98      0.98      4388							
+weighted avg       0.98      0.98      0.98      4388							
+							
+F1 Score: 0.9841520248210198							
+MCC: 0.9683091369073511							
+Confusion Matrix:							
+[[1966   31]							
+ [  38 2353]]							
+Specificity: 0.9844767150726089							
+ROC AUC: 0.984291891622461							
+Average Precision: 0.9799703556818201							
+Balanced Accuracy: 0.9842918916224609							
+Precision: 0.986996644295302							
+Recall: 0.9841070681723129							
+False Positive Rate: 0.015523284927391086							
+Accuracy: 0.9842752962625342							
+Cohens Kappa: 0.968304130935726							
+Hamming Loss: 0.015724703737465817							
+Log Loss: 0.5667757711597732							
+Area Under PR Curve: 0.9799703556818201							
+							
+Simulation 49							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.98      0.99      2061							
+           1       0.99      0.99      0.99      2327							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9876455384476774							
+MCC: 0.9752976937483147							
+Confusion Matrix:							
+[[2030   31]							
+ [  23 2304]]							
+Specificity: 0.984958757884522							
+ROC AUC: 0.9875373935533481							
+Average Precision: 0.9822125877531267							
+Balanced Accuracy: 0.9875373935533482							
+Precision: 0.9867237687366167							
+Recall: 0.9901160292221745							
+False Positive Rate: 0.015041242115477924							
+Accuracy: 0.987693710118505							
+Cohens Kappa: 0.9752911593463282							
+Hamming Loss: 0.012306289881494986							
+Log Loss: 0.4435636469946051							
+Area Under PR Curve: 0.9822125877531267							
+							
+Simulation 50							
+Classification Report:							
+              precision    recall  f1-score   support							
+							
+           0       0.99      0.99      0.99      2043							
+           1       0.99      0.99      0.99      2345							
+							
+    accuracy                           0.99      4388							
+   macro avg       0.99      0.99      0.99      4388							
+weighted avg       0.99      0.99      0.99      4388							
+							
+F1 Score: 0.9885496031816448							
+MCC: 0.9771008652831815							
+Confusion Matrix:							
+[[2016   27]							
+ [  23 2322]]							
+Specificity: 0.986784140969163							
+ROC AUC: 0.9884880193118736							
+Average Precision: 0.9840519495020776							
+Balanced Accuracy: 0.9884880193118737							
+Precision: 0.9885057471264368							
+Recall: 0.9901918976545843							
+False Positive Rate: 0.013215859030837005							
+Accuracy: 0.9886052871467639							
+Cohens Kappa: 0.9770992254862031							
+Hamming Loss: 0.011394712853236098							
+Log Loss: 0.41070708055056027							
+Area Under PR Curve: 0.9840519495020776							
